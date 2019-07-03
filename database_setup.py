@@ -1,4 +1,3 @@
-#!/usr/bin/env python2
 from sqlalchemy import Column, ForeignKey, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
